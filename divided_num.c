@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+#コードきたなすぎ
 int main(void){
     int count = 0;
     int i = 360;
