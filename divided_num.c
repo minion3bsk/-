@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
+#コードきたなすぎ
 int main(void){
     int i;
     int div;
